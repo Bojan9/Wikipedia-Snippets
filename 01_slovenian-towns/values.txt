@@ -1,0 +1,13 @@
+mk_name=
+slo_name=
+img=
+latd=
+latm=
+lats=
+longd=
+longm=
+longs=
+area=
+elevation=
+pop=
+code=

@@ -6,11 +6,11 @@ def replace_placeholders(template, values):
 
 def main():
     # Read template file
-    with open('template.txt', 'r', encoding='utf-8') as template_file:
+    with open('01_slovenian-towns/template.txt', 'r', encoding='utf-8') as template_file:
         template_content = template_file.read()
 
     # Read values file
-    with open('values.txt', 'r', encoding='utf-8') as values_file:
+    with open('01_slovenian-towns/values.txt', 'r', encoding='utf-8') as values_file:
         values_content = values_file.read()
 
     # Parse values from the values file
